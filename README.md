@@ -19,5 +19,4 @@ end
 
 ```javascript
 alert("Hi there");
-end
 ```
