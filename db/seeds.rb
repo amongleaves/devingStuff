@@ -30,4 +30,8 @@ puts "5 skills created"
 		main_image: "http://via.placeholder.com/600x400",
 		thumb_image: "http://via.placeholder.com/350x200"
 	)
+<<<<<<< Updated upstream
 end
+=======
+end
+>>>>>>> Stashed changes
